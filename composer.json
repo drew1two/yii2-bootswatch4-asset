@@ -1,5 +1,5 @@
 {
-	"name" : "raoul2000/yii2-bootswatch4-asset",
+	"name" : "drew1two/yii2-bootswatch4-asset",
 	"description" : "Use Bootswatch theme compatible with Bootstrap 4, in your Yii2 application with minimum effort",
 	"type" : "yii2-extension",
 	"keywords" : [
@@ -25,7 +25,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"raoul2000\\bootswatch4\\" : ""
+			"drew1two\\bootswatch4\\" : ""
 		}
 	},
 	"suggest": {
